@@ -1,0 +1,11 @@
+.addresses {
+  padding: 15px;
+
+  @media (min-width: 992px) {
+    padding: 0 15px;
+  }
+}
+
+.hotel-container {
+  padding: 20px;
+}
