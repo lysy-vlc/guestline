@@ -1,0 +1,22 @@
+.custom-slider {
+  height: 230px;
+  width: 100%;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 25px;
+  line-height: 1;
+
+  @media (max-width: 992px) {
+
+  }
+}
+
+h4 {
+  font-size: 15px;
+}
+
+.rs-offer-bordered {
+  margin-top: 20px;
+}
